@@ -1,6 +1,15 @@
-# Gradio_NLP_App
-Natural Language Processing with a Simple Gradio Interface
+# Text Summarization and Image Captioning Generative AI Application
+## Models used to accomplish Text Summarization and Image Captioning
+### `sshleifer/distilbart-cnn-12-6` - NLP Model
+### `Salesforce/blip-image-captioning-base` - a 14M parameter captioning model
 
-![alt text](sample_summary.png)
+![alt text](gradio_interface.png)
+`Interface of the App built with Gradio`
 
-A simple project showcasing the power of Gradio to build an interface for ML Apps without using HTML, CSS and JavaScript to build the frontend. 
+![alt text](ai_summary.png)
+`Sample Text Summarization Task`
+
+![alt text](webcam.png)
+`Image Captioning from a Webcam`
+
+
